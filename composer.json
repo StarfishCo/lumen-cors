@@ -18,6 +18,7 @@
         }
     ],
     "require": {
+        "symfony/http-foundation": ">=3.2 <5"
     },
     "autoload": {
         "psr-4": {
